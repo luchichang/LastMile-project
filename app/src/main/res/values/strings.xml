@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LastMile</string>
+    <string name="store_adrs">9/339 Aruljothi nagar,thompatti pirivu \n Saravana Bakery Back side\n Coimbatore\n Tamilnadu - 641017</string>
+    <string name="signout">LOGOUT</string>
+    <string name="complete">Deliver</string>
+    <string name="upload_img">Please capture the store picture to proceed further</string>
+    <string name="conLogout">Are you sure want to\nlogout?</string>
+    <string name="nostay">No, i will stay</string>
+    <string name="deliver"><![CDATA[Deliver & collect]]></string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bot_home"
+        android:icon="@mipmap/home_icon"
+        android:title="Home"
+        android:iconTint="@color/black"/>
+<!--    <item-->
+<!--        android:id="@+id/bot_map"-->
+<!--        android:icon="@mipmap/map_icon"-->
+<!--        android:title="Map"-->
+<!--        android:iconTint="@color/black"/>-->
+ <item
+        android:id="@+id/bot_task"
+        android:icon="@mipmap/task_icon"
+        android:title="Events"
+     android:iconTint="@color/black"/>
+    <item
+        android:id="@+id/bot_profile"
+        android:icon="@mipmap/profile_icon"
+        android:title="Profile"
+        android:iconTint="@color/black"/>
+
+</menu>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFB900</color>
+    <color name="colorPrimaryDark">#FFB900</color>
+    <color name="colorAccent">#FFB900</color>
+    <color name="main_theme">#FFB900</color>
+    <color name="main_dialog_theme">#20FFB900</color>
+    <color name="black">#000000</color>
+    <color name="transparent_black">#10000000</color>
+    <color name="white">#ffffff</color>
+    <color name="grey">#737373</color>
+</resources>
